@@ -257,18 +257,18 @@ body {
 }
 .b2{
   background-color: rgba(6,214,160,0.5);
-  left: -300px;
-  top: -300px;
+  left: -150px;
+  top: -390px;
 }
 .b3{
   background-color: rgba(255,209,102,0.5);
-  left: 100px;
-  top: -350px;
+  left: 50px;
+  top: -380px;
 }
 .b4{
   background-color: rgba(17,134,178,0.5);
-  left: 250px;
-  top: -250px;
+  left: 0px;
+  top: -410px;
 }
 
 .b1:before,.b2:before,.b3:before,.b4:before{
@@ -276,7 +276,7 @@ body {
   position: absolute;
   width: 1px;
   height: 155px;
-  background-color: #000000;
+  background-color: #444343;
   top: 112px;
   left: 52px;
 }
